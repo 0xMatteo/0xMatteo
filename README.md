@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-<!--
-**mbelanger-ledger/mbelanger-ledger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Blockchain Analytics at [@LedgerHQ](https://github.com/LedgerHQ)
+- 🌍 I lived in Canada, Switzerland and France, originally from Montreal 🦌
+- 🥐 Currently in Paris!
+- 👨🏽‍🎓 I Studied:
+  - Software Engineering [@Polytechnique Montréal](https://www.polymtl.ca/)
+  - Engineering Management & Sustainability [@Enterprise for Society](https://e4s.center/) EPFL, IMD Business School & UNIL in 🇨🇭
+- 🌱 I’m currently learning Solidity, Italian
+- 💬 Ask me about Politics, Cinema, Blockchain
 
-Here are some ideas to get you started:
+<details>
+<summary><h3>🎨 Extra GitHub Stats</h3></summary>
+<br>
+<img src=https://github-readme-stats.vercel.app/api?username=mbelanger-ledger&show_icons=true&count_private=true>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
