@@ -10,7 +10,7 @@
 - 💬 Ask me about Politics, Cinema, Blockchain
 
 <details>
-<summary><h3>🎨 Extra GitHub Stats</h3></summary>
+<summary><h5>🎨 Extra GitHub Stats</h5></summary>
 <br>
 <img src=https://github-readme-stats.vercel.app/api?username=mbelanger-ledger&show_icons=true&count_private=true>
 </details>
