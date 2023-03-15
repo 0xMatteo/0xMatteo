@@ -6,8 +6,8 @@
 - 👨🏽‍🎓 I Studied:
   - Software Engineering [@Polytechnique Montréal](https://www.polymtl.ca/)
   - Engineering Management & Sustainability [@Enterprise for Society](https://e4s.center/) EPFL, IMD Business School & UNIL in 🇨🇭
-- 🌱 I’m currently learning Solidity, Italian
-- 💬 Ask me about Politics, Cinema, Blockchain
+<!-- - 🌱 I’m currently learning Solidity, Italian
+- 💬 Ask me about Politics, Cinema, Blockchain -->
 
 <details>
 <summary><h5>🎨 Extra GitHub Stats</h5></summary>
