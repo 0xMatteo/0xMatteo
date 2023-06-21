@@ -4,7 +4,7 @@
 - 🌍 I lived in Canada, Switzerland and France, originally from Montreal 🦌
 - 🥐 Currently in Paris!
 - 👨🏽‍🎓 I Studied:
-  - Software Engineering [@Polytechnique Montréal](https://www.polymtl.ca/)
+  - Computer Engineering [@Polytechnique Montréal](https://www.polymtl.ca/)
   - Engineering Management & Sustainability [@Enterprise for Society](https://e4s.center/) EPFL, IMD Business School & UNIL in 🇨🇭
 <!-- - 🌱 I’m currently learning Solidity, Italian
 - 💬 Ask me about Politics, Cinema, Blockchain -->
