@@ -1,6 +1,6 @@
 ### Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-- 🔭 I’m currently working on Blockchain Analytics at [@LedgerHQ](https://github.com/LedgerHQ)
+- 🔭 I’m currently working on Product & Blockchain Analytics Engineering at [@LedgerHQ](https://github.com/LedgerHQ)
 - 🌍 I lived in Canada, Switzerland and France, originally from Montreal 🦌
 - 🥐 Currently in Paris!
 - 👨🏽‍🎓 I Studied:
