@@ -12,7 +12,7 @@
 <details>
 <summary><h5>🎨 Extra GitHub Stats</h5></summary>
 <br>
-<img src=https://github-readme-stats.vercel.app/api?username=0xMatteo&show_icons=true&count_private=true>
+<img src=https://github-readme-stats.vercel.app/api?username=mateobelanger&show_icons=true&count_private=true>
 </details>
 
 ![](https://komarev.com/ghpvc/?username=mateobelanger&base=498)
