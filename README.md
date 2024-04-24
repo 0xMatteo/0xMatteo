@@ -1,7 +1,8 @@
 ### Bonjour <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 - ❓  **Who** - Software Engineer with a focus on data systems & Machine Learning. I am passionate about innovation, sustainability and public issues
-- 🧪 **What** - I'm doing research at the crossroads of Blockchains & Environmental sustainability ([GreenBlocks - Adress-level carbon accounting](https://github.com/mateobelanger/GreenBlocks-Paper))
+- 🧪 **What** - Doing research at the crossroads of Blockchains & Environmental sustainability ([GreenBlocks - Adress-level carbon accounting](https://github.com/mateobelanger/GreenBlocks-Paper))
+- ⛏️ **What²** - Building cool Defi stuff with [@0xPlaygrounds](https://github.com/0xPlaygrounds) & [@Llamarisk](https://github.com/llama-risk)
 - 🌍 **Where** - I lived in Canada, Switzerland and France, originally from Montreal 🦌
 - ⚜️ Currently back in Montreal!
 
