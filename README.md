@@ -2,7 +2,7 @@
 
 - ❓  **Who** - Software Engineer with a focus on data systems & Machine Learning.
 - 🧪 **What** - Doing research at the crossroads of Blockchains & Environmental sustainability ([Adress-level carbon accounting](https://github.com/mateobelanger/GreenBlocks-Paper))
-- ⛏️ **What²** - Building open-source AI in Knowledge indexation & management with [@0xPlaygrounds](https://github.com/0xPlaygrounds) -> [@Rig Crate](https://github.com/0xPlaygrounds/rig) 
+- ⛏️ **What²** - Building open-source AI and Knowledge indexation with [@0xPlaygrounds](https://github.com/0xPlaygrounds) -> [@Rig Crate](https://github.com/0xPlaygrounds/rig) 
 - 🌍 **Where** - I lived in Canada, Switzerland and France, originally from Montreal 🦌
 
 - 💼 I worked as:
